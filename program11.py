@@ -15,5 +15,4 @@ for i in x[-1:]:
 driver = webdriver
 driver.123
 a ="sachin"
-b= "sachinks"
-c = "sachinsachu"
+
